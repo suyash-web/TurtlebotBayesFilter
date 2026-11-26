@@ -1,0 +1,9 @@
+# cave_map.yaml
+# Placeholder map used to show coordinate frame in RViz.
+# Replace 'cave_map.pgm' with the actual Stage world map if available.
+image: cave_map.pgm
+resolution: 0.5
+origin: [-20.0, -20.0, 0.0]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
